@@ -1,0 +1,16 @@
+---
+title: "Welcome To the Postgrad blog"
+author: "Sam Campbell"
+date: "2022-11-3"
+categories: [Update]
+---
+
+**Who are we?**
+
+We are a group of postgraduate students in the School of Biological Sciences at UQ. This blog has been created to help develop scientific communication amongst the wider community by providing a platform for the sharing of ideas, knowledge and research.
+
+We welcome posts by any individual within the postgraduate community that are biological sciences related.
+
+You can contact us through the channels linked in the about page.
+
+![UQ Biol Postgrad Club Halloween 2022](UQ%20BIOL%20POSTGRAD%20SOCIETY%202022%20HALLOWEEN%20%20copy.jpg)

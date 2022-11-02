@@ -2,16 +2,16 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Test blog",
+    "title": "The postgraduate blog",
     "section": "",
-    "text": "how to build a blog\nHAHAHAHAHA\nJHAKKLASKLASLJAS\nhohohoh\n\n\n\n\n\n\n\n\n  \n\n\n\n\nPost With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 2, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nOct 30, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 4, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nUpdate\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nSam Campbell\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "It is a blog\nScorpions\nBIOL POSTGRAD STUFF\nUQ"
+    "text": "If you would like to have an article or blog post featured on this website, please contact us through our social media or alternatively our email."
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -26,5 +26,19 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/welcome/First post.html",
+    "href": "posts/welcome/First post.html",
+    "title": "Welcome To the Postgrad blog",
+    "section": "",
+    "text": "We are a group of postgraduate students in the School of Biological Sciences at UQ. This blog has been created to help develop scientific communication amongst the wider community by providing a platform for the sharing of ideas, knowledge and research.\nWe welcome posts by any individual within the postgraduate community that are biological sciences related.\nYou can contact us through the channels linked in the about page.\n\n\n\nUQ Biol Postgrad Club Halloween 2022"
+  },
+  {
+    "objectID": "posts/post-with-code/Second post.html",
+    "href": "posts/post-with-code/Second post.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
   }
 ]

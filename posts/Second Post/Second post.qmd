@@ -1,0 +1,11 @@
+---
+title: "Scorpion Venom: why bother?"
+author: "Sam Campbell"
+date: "2022-11-04"
+categories: [Discussion, news]
+image: "Centruroides_gracilis_adobe_stock.jpeg"
+---
+
+![*Centruroides gracilis* luminescence under UV light. Rights : Adobe stock (Alex Stemmers)](Centruroides_gracilis_adobe_stock.jpeg){fig-align="center"}
+
+Image rights: *Adobe stock (Alex Stemmers)*

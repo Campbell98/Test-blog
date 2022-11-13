@@ -1,5 +1,5 @@
 ---
-title: "The postgraduate blog"
+title: "The Postgraduate Blog"
 listing:
   contents: posts
   sort: "date desc"

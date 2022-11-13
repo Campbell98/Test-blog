@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "The postgraduate blog",
+    "title": "The Postgraduate Blog",
     "section": "",
-    "text": "news\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nNov 4, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nUpdate\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nSam Campbell\n\n\n\n\n\n\nNo matching items"
+    "text": "Discussion\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nNov 4, 2022\n\n\nSam Campbell\n\n\n\n\n\n\n  \n\n\n\n\n\n\n\n\n\n\nUpdate\n\n\n\n\n\n\n\n\n\n\n\nNov 3, 2022\n\n\nSam Campbell\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -40,5 +40,12 @@
     "title": "Post With Code",
     "section": "",
     "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/Second Post/Second post.html",
+    "href": "posts/Second Post/Second post.html",
+    "title": "Scorpion Venom: why bother?",
+    "section": "",
+    "text": "Image rights: Adobe stock (Alex Stemmers)"
   }
 ]
